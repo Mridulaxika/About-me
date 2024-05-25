@@ -2,7 +2,7 @@
 <h3 align="center">A person with mobster mind in coding </h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLHL_ntTdpgfPWj70u3EmqNtM9nmE3ZKwoQ&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulaxika&label=Profile%20views&color=0e75b6&style=flat" alt="mridulaxika" /> </p>
+<p align="left"> <img src="<div class="tenor-gif-embed" data-postid="20517262" data-share-method="host" data-aspect-ratio="1.02236" data-width="100%"><a href="https://tenor.com/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262">Hacker Computer GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
