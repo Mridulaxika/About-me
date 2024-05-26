@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mridulaxika</h1>
 <h3 align="center">A person with mobster mind in coding </h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLHL_ntTdpgfPWj70u3EmqNtM9nmE3ZKwoQ&usqp=CAU">
+<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/GiZi" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
-<p align="left"> <   <div class="tenor-gif-embed" data-postid="16447135" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hotz-hacker-anonymous-mask-gif-16447135">Hotz Hacker GIF</a>from <a href="https://tenor.com/search/hotz-gifs">Hotz GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>> </p>
+<p align="left"> <  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
